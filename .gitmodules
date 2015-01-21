@@ -1,0 +1,4 @@
+[submodule "GroundTruth"]
+	path = GroundTruth
+	url = https://github.com/andrewhaeg/GroundTruth.git
+	branch = master
